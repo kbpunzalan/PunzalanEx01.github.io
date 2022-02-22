@@ -1,0 +1,45 @@
+body {
+    background-color: #f2f3f4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#course {
+    font-weight: 700;
+}
+
+#course-nuber {
+    font-weight: 300;
+}
+
+.info, #title {
+    margin: 40px 0px 40px 0px;
+}
+
+h3, p {
+    margin: 5px;
+}
+
+#title2 {
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 10px 0px 10px 0px;
+}
+
+.box { /* inspiration from https://codepen.io/knaman2609/pen/Zbyjvv */
+    max-width: 700px;   
+    background: white;
+    margin: 0px auto 0px; 
+    box-shadow: 8px 8px 8px 8px #d1d1d1;
+    border-radius: 3px;  
+    padding: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+
+.emphasize {
+    border:2px dashed;
+    padding:0.03em 0.25em;
+  }
+
